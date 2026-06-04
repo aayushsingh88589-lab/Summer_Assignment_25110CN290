@@ -10,7 +10,8 @@ int main()
    cin>>n;
   cout<<"Fibonacci series upto " << n << "is : " ;
    for(int i=1;i<=n;i++)
-   { cout << a << endl;
+   { 
+     cout << a << " ";
         c=a+b;
         a=b;
         b=c;
