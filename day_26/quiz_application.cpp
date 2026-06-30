@@ -8,13 +8,13 @@ int main() {
 
     // Question 1
     cout << "Q1. What is the capital of India?\n";
-    cout << "1. Mumbai\n2. Delhi\n3. Kolkata\n4. Chennai\n";
+    cout << "1. Mumbai\n2. Delhi\n3. Chennai\n";
     cin >> choice;
     if(choice == 2) score++;
 
     // Question 2
     cout << "Q2. Who is known as the Father of C++?\n";
-    cout << "1. Dennis Ritchie\n2. Bjarne Stroustrup\n3. James Gosling\n4. Guido van Rossum\n";
+    cout << "1. Dennis Richie\n2. Bjarne Stroustrup\n3. James Gosling\n4. Guido van Rossum\n";
     cin >> choice;
     if(choice == 2) score++;
 
